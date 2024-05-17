@@ -130,7 +130,7 @@ btnHold.addEventListener('click', function () {
     }
   }
 });
-// ------------------------------------- //
+// ------------------💥------------------- //
 /* 
   when user click the New Game button 
   Everything should be returned to the 
