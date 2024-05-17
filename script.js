@@ -109,7 +109,7 @@ btnHold.addEventListener('click', function () {
       score[activePlayer];
 
     // if socre >= 100 then WIN otherwise switch player.
-    if (score[activePlayer] >= 10) {
+    if (score[activePlayer] >= 100) {
       // hide dice
       diceEl.classList.add('hidden');
       // change background of WINNER PLAYER
